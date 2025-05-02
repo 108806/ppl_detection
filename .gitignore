@@ -1,0 +1,17 @@
+# Pliki wideo (fragmenty i wyniki detekcji)
+*.mp4
+*.avi
+
+# Wyniki YOLO
+runs/
+
+# Modele YOLO
+*.pt
+
+# Pliki tymczasowe, cache, backupy
+*.pyc
+__pycache__/
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
